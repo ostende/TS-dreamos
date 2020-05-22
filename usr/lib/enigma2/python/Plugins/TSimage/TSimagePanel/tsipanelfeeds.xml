@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<feeds>
+
+    <feed>
+        <name>Git opendreambox OE-2.2 (dora) news</name>
+        <url>http://git.opendreambox.org/?p=opendreambox.git;a=rss</url>
+    </feed>
+    <feed>
+        <name>TunisiaSat-enigma2 arabic chat</name>
+        <url>http://www.tunisia-sat.com/vb/external.php?type=RSS2&#38;forumids=272</url>
+    </feed> 
+    <feed>
+        <name>TunisiaSat-Tunisiasat new topics</name>
+        <url>http://www.tunisia-sat.com/vb/external.php?type=RSS2</url>
+    </feed>                
+    <feed>
+        <name>KingOfSat News</name>
+        <url>http://en.kingofsat.net/rssnews.php</url>
+    </feed>
+    <feed>
+        <name>Enigma2 updates news</name>
+        <url>http://cia.vc/stats/project/enigma2/.rss</url>
+    </feed>       
+    <feed>
+        <name>Dream Multimedia News</name>
+        <url>http://www.dream-multimedia-tv.de/rssfeed</url>
+    </feed> 
+     
+</feeds>
